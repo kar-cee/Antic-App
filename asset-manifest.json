@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Antic-App/static/css/main.4985b121.css",
+    "main.js": "/Antic-App/static/js/main.445b579b.js",
+    "static/js/787.b3d10432.chunk.js": "/Antic-App/static/js/787.b3d10432.chunk.js",
+    "static/media/olga-guryanova-Th-i7Z1ufK8-unsplash.jpg": "/Antic-App/static/media/olga-guryanova-Th-i7Z1ufK8-unsplash.a1cd256a39cd97865040.jpg",
+    "static/media/statuette-3108045_1920.png": "/Antic-App/static/media/statuette-3108045_1920.0c6442f9bc0f3887aaa0.png",
+    "static/media/idol-1834688_1920.jpg": "/Antic-App/static/media/idol-1834688_1920.dd1843a94aad0454ed2a.jpg",
+    "static/media/lord-krishna-7366880_1920.jpg": "/Antic-App/static/media/lord-krishna-7366880_1920.171d97fd091675a41ebe.jpg",
+    "static/media/buddha-4440349_1920.jpg": "/Antic-App/static/media/buddha-4440349_1920.8abbee785ce22d2e1974.jpg",
+    "static/media/lord-3614576_1920.jpg": "/Antic-App/static/media/lord-3614576_1920.1779e863230dd06842b5.jpg",
+    "static/media/ganesh-5508585_1920.jpg": "/Antic-App/static/media/ganesh-5508585_1920.fe4f190e5e291c078b6e.jpg",
+    "index.html": "/Antic-App/index.html",
+    "main.4985b121.css.map": "/Antic-App/static/css/main.4985b121.css.map",
+    "main.445b579b.js.map": "/Antic-App/static/js/main.445b579b.js.map",
+    "787.b3d10432.chunk.js.map": "/Antic-App/static/js/787.b3d10432.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4985b121.css",
+    "static/js/main.445b579b.js"
+  ]
+}
