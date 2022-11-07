@@ -1,0 +1,45 @@
+
+.heading {
+    color: #97711E;
+    font-family: 'Baskervville';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: left;
+    margin: 2.6rem;
+}
+
+.items {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.collectionContainer {
+    width: 230px;
+    height: 350px;
+    background: url("../images/statuette-3108045_1920.png");
+    background-size: cover;
+    background-position: center;
+    background-color: #FFFFFF;
+    margin:1rem 2rem;
+    border: 1px solid #975E1E;
+    border-radius: 128.5px;
+}
+
+.collectionName {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #47294B;
+}

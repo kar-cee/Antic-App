@@ -1,0 +1,71 @@
+.hero{
+    width:1440px;
+    height: 603px;
+    background-image: url("../images/idol-1834688_1920.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.angle{
+    font-size: 5rem;
+    color: #C6C6C6;
+    margin: 2rem;
+}
+.homeText{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 35rem;
+    
+}
+.text{
+    width: 416px;
+    height: 131px;
+    font-family: 'Baskervville', sans-serif;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 2rem;
+}
+.homeText span{
+    color:#D8AE55;
+}
+.btnBorder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #D8AE55;
+    width: 257px;
+    height: 58px;
+    border-radius: 5px;
+}
+.goPage{
+    width: 239px;
+    height: 41.58px;
+    background: #D8AE55;
+    border-radius: 5px;
+    border:0px;
+    font-size: 23px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}
+.circles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#97711E;
+}
+.ring{
+    font-size: 1rem;
+    margin: 0 12px;
+}
+.circle{
+    font-size: 2rem;
+}

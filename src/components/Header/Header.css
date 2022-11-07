@@ -1,0 +1,49 @@
+.offer {
+    background: #47294B;
+    width: 1440px;
+    height: 43px;
+    color: #FFFFFF;
+    padding-top: 9px;
+    line-height: 25px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem;
+}
+.searchBar{
+    width: 486px;
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+}
+.searchIp{
+    border:0px;
+    width: 254px;
+    height: 22px;
+    outline: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}
+.searchIp::placeholder{
+    color: #C0A2BA;
+}
+.iconColor {
+    color: #97711E;
+    margin-right: 2rem;
+    font-size: 20px;
+}
+
+.hrLine {
+    border: .5px solid rgba(151, 113, 30, 0.49);
+}

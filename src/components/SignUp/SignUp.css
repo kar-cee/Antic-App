@@ -1,0 +1,57 @@
+.signUpPortal{
+    background: #A8812A;
+    width: 1440px;
+    height: 449px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    padding:3rem;
+}
+.headText{
+    font-family: 'Baskervville';
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    width: 645px;
+    height: 60px;
+}
+.detail{
+    width: 645px;
+    height: 60px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 100%;
+    text-align: center;
+    color: #FFF4DD;
+}
+.email{
+    width: 606px;
+    height: 55px;
+    outline: none;
+    font-size: 25px;
+    padding: 0 1rem;
+}
+.btnBorderWhite {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #FFFFFF;
+    width: 257px;
+    height: 58px;
+    border-radius: 5px;
+}
+
+.singUp {
+    width: 239px;
+    height: 41.58px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 0px;
+    font-family: 'Inter', sans-serif;
+    font-size: 23px;
+    font-weight: 600;
+}
