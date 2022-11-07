@@ -1,0 +1,68 @@
+.reviewPage{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex:1,2,1;
+}
+.arrow {
+    font-size: 5rem;
+    color: #97711E;
+    margin: 2rem;
+}
+.reviewBox{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 6rem;
+    margin-bottom: 6rem;
+}
+.customerProfile{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-image: url("../images/olga-guryanova-Th-i7Z1ufK8-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: #ccc;
+    margin-bottom: 25px;
+}
+.customerName{
+    font-family: 'Nunito',sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 82px;
+    text-align: center;
+    color: #000000;
+}
+.reviewText{
+    position: relative;
+    font-family: 'Nunito';
+    font-weight: 400;
+    font-size: 35px;
+    text-align: center;
+    color: #97711E;
+}
+/* qoutation mark using psuedo element */
+/* .reviewText::before{
+    position: absolute;
+    top:-4rem;
+    left: -3rem;
+    content:"''";
+    height: 6rem;
+    font-size: 4rem;
+    width:6rem;
+} */
+.qoutationMark{
+    position: absolute;
+    font-size: 8rem;
+    color:rgba(151, 113, 30, 0.35);
+}
+.leftQoute{
+    top: -7rem;
+    left: 3rem;
+}
+.rightQoute{
+    bottom: -4rem;
+    right: 2rem;
+}

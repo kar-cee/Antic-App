@@ -1,0 +1,22 @@
+.qoutationSection{
+    width: 1440px;
+    height: 712px;
+    background: url("../images/ganesh-5508585_1920.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qoute{
+    font-family: 'Baskervville';
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 78px;
+    color: #FFFFFF;
+}
+.author{
+    font-size: 30px;
+    text-align: right;
+}

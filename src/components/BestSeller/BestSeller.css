@@ -21,10 +21,38 @@
 .imgContainer{
     width: 216px;
     height: 255px;
+    
+    background-color: #ccc;
+}
+/* background-color
+background-image
+background-repeat
+background-attachment
+background-position */
+.buddha{
     background: url("../images/buddha-4440349_1920.jpg");
     background-size: cover;
     background-position: center;
-    background-color: #ccc;
+}
+.ganesh{
+    background: url("../images/ganesh-5508585_1920.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.statuette {
+    background: url("../images/statuette-3108045_1920.png");
+    background-size: cover;
+    background-position: center;
+}
+.krishna {
+    background: url("../images/lord-krishna-7366880_1920.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.lord {
+    background: url("../images/lord-3614576_1920.jpg");
+    background-size: cover;
+    background-position: center;
 }
 .lightName{
     font-family: 'Baskervville',sans-serif;

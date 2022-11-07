@@ -9,7 +9,7 @@ export default function BestSeller() {
           <div className="heading">Our BestSellers</div>
           <div className='items'>
               <div className="card">
-                  <div className="imgContainer"></div>
+                  <div className="imgContainer buddha"></div>
                   <div className="lightName">Wall Hanging</div>
                   <div className="darkName">Wall Hanging</div>
                   <div className="price">$1230.0</div>
@@ -22,7 +22,7 @@ export default function BestSeller() {
                   </div>
               </div>
               <div className="card">
-                <div className="imgContainer"></div>
+                <div className="imgContainer ganesh"></div>
                   <div className="lightName">Wall Hanging</div>
                   <div className="darkName">Wall Hanging</div>
                   <div className="price">$1230.0</div>
@@ -35,7 +35,7 @@ export default function BestSeller() {
                   </div>
               </div>
               <div className="card">
-                <div className="imgContainer"></div>
+                <div className="imgContainer statuette"></div>
                   <div className="lightName">Wall Hanging</div>
                   <div className="darkName">Wall Hanging</div>
                   <div className="price">$1230.0</div>
@@ -48,7 +48,7 @@ export default function BestSeller() {
                   </div>
               </div>
               <div className="card">
-                <div className="imgContainer"></div>
+                <div className="imgContainer krishna"></div>
                   <div className="lightName">Wall Hanging</div>
                   <div className="darkName">Wall Hanging</div>
                   <div className="price">$1230.0</div>
@@ -61,7 +61,7 @@ export default function BestSeller() {
                   </div>
               </div>
               <div className="card">
-                <div className="imgContainer"></div>
+                <div className="imgContainer lord"></div>
                   <div className="lightName">Wall Hanging</div>
                   <div className="darkName">Wall Hanging</div>
                   <div className="price">$1230.00</div>
