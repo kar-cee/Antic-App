@@ -1,7 +1,7 @@
 ul{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     list-style: none;
     color: #47294B;
     padding: 1rem ;
@@ -11,4 +11,13 @@ ul li{
     font-family: "Nunito Sans", sans-serif;
     font-weight: 700;
     font-size: 20px;
+    cursor: pointer;
+}
+@media only screen and (max-width: 768px) {
+    ul{
+        padding:.5rem;
+    }
+    ul li{
+        font-size: 10px;
+    }
 }

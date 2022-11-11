@@ -1,10 +1,9 @@
 .offer {
     background: #47294B;
-    width: 1440px;
+    width: 100vw;
     height: 43px;
     color: #FFFFFF;
     padding-top: 9px;
-    line-height: 25px;
     font-weight: 700;
     font-size: 18px;
 }
@@ -15,8 +14,19 @@ header {
     align-items: center;
     padding: 2rem;
 }
+@media only screen and (max-width: 768px) {
+    .offer{
+        height: 30px;
+        font-size: 12px;   
+ }
+    header {
+        justify-content: space-between;
+        padding: 0 0 0 .5rem;
+    }
+}
+
 .searchBar{
-    width: 486px;
+    width: 37vw;
     height: 50px;
     border-radius: 10px;
     display: flex;
@@ -24,9 +34,10 @@ header {
     align-items: center;
     padding: 0 2rem;
 }
+
 .searchIp{
     border:0px;
-    width: 254px;
+    width: 32vw;
     height: 22px;
     outline: none;
     font-family: 'Inter';
@@ -38,12 +49,23 @@ header {
 .searchIp::placeholder{
     color: #C0A2BA;
 }
+
 .iconColor {
     color: #97711E;
     margin-right: 2rem;
     font-size: 20px;
+    cursor: pointer;
 }
-
+@media only screen and (max-width: 768px) {
+    .searchBar{
+        padding:0;
+    }
+    .searchIp,
+    .searchIp::placeholder,
+    .iconColor {
+        font-size: 14px;
+    }
+}
 .hrLine {
     border: .5px solid rgba(151, 113, 30, 0.49);
 }

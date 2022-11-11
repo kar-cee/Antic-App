@@ -1,6 +1,6 @@
 .footer{
     position:relative;
-    width: 1440px;
+    width: 100vw;
     height: 361px;
     background: #47294B;;
     display: flex;
@@ -45,6 +45,6 @@
 .lastHr{
     position: absolute;
     bottom: 3rem;
-    width: 1440px;;
+    width: 100vw;
     border:1px solid #97711E;
 }

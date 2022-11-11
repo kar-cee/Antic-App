@@ -1,5 +1,8 @@
 .App {
   text-align: center;
 }
+button{
+  cursor: pointer;
+}
 
 /* npm i --save @fortawesome/pro-solid-svg-icons npm i --save @fortawesome/pro-regular-svg-icons npm i --save @fortawesome/pro-light-svg-icons npm i --save @fortawesome/pro-duotone-svg-icons*/

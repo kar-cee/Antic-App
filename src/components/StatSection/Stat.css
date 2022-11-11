@@ -1,0 +1,47 @@
+.nobg{
+    background-image: url("../images/pexels-karolina-grabowska-4194850.jpg");
+    height: 500px;
+    padding: 5rem 0;
+    margin: 2rem auto;
+    width: 100vw;
+}
+.qouteStat{
+    width: 100vw;
+    height: 172px;
+    font-family: 'Baskervville';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+    color: #97711E;
+    margin: auto;
+}
+.authorStat {
+    font-size: 30px;
+    text-align: right
+    
+}
+.stat{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6rem;
+}
+.statBox{
+    width: 290px;
+    height: 125px;
+    font-family: 'Nunito';
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 82px;
+    text-align: center;
+    color: #97711E;
+}
+
+.countName{
+    font-size: 30px;
+    font-weight: 200;
+}
+.statBoxSaperator{
+    height: 170px;
+    border: 2px solid #97711E;
+}

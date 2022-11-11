@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import "./Hero.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngleLeft, faAngleRight, faCircle } from '@fortawesome/free-solid-svg-icons'
@@ -19,7 +19,7 @@ export default function Hero() {
                 <FontAwesomeIcon icon={faAngleRight} className="angle" />
             </div>
             <div className='circles'>
-                <FontAwesomeIcon icon={faRCircle} className="ring" />
+                <FontAwesomeIcon icon={faRCircle} className='ring' />
                 <FontAwesomeIcon icon={faRCircle} className="ring" />
                 <FontAwesomeIcon icon={faCircle} className="circle" />
                 <FontAwesomeIcon icon={faRCircle} className="ring" />

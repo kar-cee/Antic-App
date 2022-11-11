@@ -9,12 +9,14 @@ import Footer from './components/Footer/Footer';
 import Review from './components/Review/Review';
 import NewArrival, { TimelessCollection } from './components/NewArrival/NewArrival';
 import Qoutation from './components/Qoutation/Qoutation';
+import Stat from './components/StatSection/Stat';
 function App() {
   return (
     <div className="App">
       <Header/>
       <Navbar />
       <Hero />
+      <Stat/>
       <BestSeller />
       <Collection />
       <Qoutation />

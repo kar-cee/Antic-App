@@ -1,6 +1,6 @@
 .signUpPortal{
     background: #A8812A;
-    width: 1440px;
+    width: 100vw;
     height: 449px;
     display: flex;
     justify-content: space-around;
